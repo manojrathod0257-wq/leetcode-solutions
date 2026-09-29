@@ -23,7 +23,6 @@ Output: `"H"`
 ## Complexity
 Time Complexity: O(n)
 
-Space Complexity: O(1)
 
 ## LeetCode Result
 Accepted
